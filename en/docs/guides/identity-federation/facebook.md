@@ -179,7 +179,7 @@ You have now added and configured the service provider.
     contains the Facebook certificate by default.
     
 
-!!! note "Related Topics"
+!!! info "Related topics"
 
 	For more information on SSO, see [Single Sign-On](../../../guides/login/enable-single-sign-on/).
 
@@ -242,7 +242,7 @@ claims.
 
 You have successfully configured facebook as your federated authenticator. Now, when you try to log in to your application, it should redirect to the Facebook login page. On successful authentication with your Facebook credentials, you will be able to access your application. 
 
----
+
 
 !!! info "Related topics"
 	-   See the following topics for samples of configuring Facebook for
